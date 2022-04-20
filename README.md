@@ -1,1 +1,4 @@
 # CS-255
+
+Driver Pass is hoping to take advantage of a void in the market when it comes to training students for the driving test at their local department of motor vehicles (DMV). They wanted a system that would connect students with drivers in one of their 10 vehicles over 2-hour sessions. 
+Interpreting the requirements was easy enough, given the interview transcript as well as the client's rough draft of the front end. It was easy to see what kind of system they wanted and how they expoected it to work. Next time, I would make sure I include all of the client's requests in my designs to be more thorough. Being attentive to detail is the most important thing in system design. The final deliverable should be as close to the client's specifications as possible to ensure client satisfaction. 
